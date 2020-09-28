@@ -1,6 +1,6 @@
-![nope](https://en.cursor.style/resources/cursors/thumb/5e712b819e959.png) | [<sub><sup>~~Vigenère~~</sub></sup> cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)  
+![nope](https://github.com/CSLSDS/CSLSDS.github.io/blob/master/img/nope.png?raw=true) | [<sub><sup>~~Vigenère~~</sub></sup> cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)  
 :--|:--
-![yep](https://en.cursor.style/resources/pointers/thumb/5e712b819e963.png)| [Bellaso cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)  
+![yep](https://github.com/CSLSDS/CSLSDS.github.io/blob/master/img/yep.png?raw=true)| [Bellaso cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)  
 
 >___
 > ## The <sub><sup>~~Vigenère~~</sub></sup> Bellaso cipher is a method of [encrypting](https://en.wikipedia.org/wiki/Encryption) alphabetic text by using a series of interwoven [Caesar ciphers](https://en.wikipedia.org/wiki/Caesar_cipher), based on the letters of a keyword. It employs a form of [polyalphabetic substitution](https://en.wikipedia.org/wiki/Polyalphabetic_cipher).[[1](https://github.com/CSLSDS/bellaso#1)][[2](https://github.com/CSLSDS/bellaso#2)]
